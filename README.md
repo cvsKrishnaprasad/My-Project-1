@@ -1,4 +1,4 @@
 My-Project-1
 ============
 
-This is my first ever project that i am going to take up.
+This is my first project ever that i am going to take up.
